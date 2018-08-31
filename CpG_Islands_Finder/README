@@ -1,0 +1,8 @@
+Systemrequirements:
+tested for python 3.7
+mathplotlib must be installed for python
+
+run Main.py and enter the name of the file for the + model. Then enter the name of the - model.
+The last input is the input of the sequence to check for CpG islands.
+
+The plots getting saved in the same folder as the Main.py programm and are called frame...
